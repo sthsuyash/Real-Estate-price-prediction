@@ -1,0 +1,12 @@
+# ignoring for python files
+*.pyc
+*.pyo
+__pycache__
+
+# ignoring for flask files
+instance/
+.webassets-cache
+venv/
+
+# ignoring for vscode files
+.vscode/
